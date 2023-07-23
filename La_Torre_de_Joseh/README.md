@@ -1,6 +1,6 @@
 # La Torre de Joseh
 
-Vuelvo a levantar La Torre de Joseh, esta vez en github. He recopilado los posts que escribí en la [primera temporada](temporadas/1) y en la [segunda temporada](temporadas/2), por si queréis releerlos o no los habíais leído antes.
+Vuelvo a levantar La Torre de Joseh, esta vez en github. He recopilado los posts que escribí en la [primera temporada](temporadas/1) y en la [segunda temporada](temporadas/2), por si queréis releerlos o no los habíais leído antes. He desactivado los enlaces externos, porque la mayoría de ellos ya no funcionan como antes.
 
 Ha pasado mucho tiempo desde la última vez que escribí, a mediados del 2010, y es evidente que el mundo ha cambiado drásticamente desde entonces. La sociedad ha abrazado la tecnología hasta el punto de que muchos de los que antes eran considerados geek ahora pasan desapercibidos. Su ilusión de estos pioneros, al igual que la luz de las estrellas en pleno día, no ha dejado de brillar. Como [el imperio de los ratones](temporadas/1/09._La_caihda_del_imperio_de_los_ratones.md), que aún no ha caído.
 
