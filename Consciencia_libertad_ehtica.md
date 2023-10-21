@@ -1,4 +1,6 @@
-# 0. Prólogo
+# Consciencia, Libertad, Ética
+
+## 0. Prólogo
 
 Imagina que entras por primera vez en uno de esos mundos virtuales que hay en Internet. Defines el aspecto que tendrá tu avatar, eligiendo el color de pelo, tono de piel, la ropa, etc. y, después de esperar unos segundos, te encuentras en un mundo inmenso, lleno de avatares de otros jugadores y de personajes no jugadores que sirven para que tu personaje pueda comprar artículos virtuales, adquirir misiones o cubrir cualquier otra necesidad. En un juego de rol online, pueden incluso unirse a tu grupo de héroes y colaborar en la caza del infame dragón de turno. Por supuesto, basta con intentar hablar un poco con ellos para saber cuáles personajes son avatares de un jugador humano y cuáles son personajes no jugadores. Sin embargo, es cuestión de tiempo que la Inteligencia Artificial avance hasta el punto de que los personajes no jugadores sean indistinguibles de un ser humano. ¿Cuál sería la diferencia? Que los avatares humanos tienen a una persona que mira por sus ojos y ve lo que ellos ven, mientras que los personajes no jugadores no tienen a nadie que los maneje y que mire por sus ojos.
 
@@ -14,7 +16,7 @@ La tercera parte se basa en las anteriores para hablar de ética. No pretende se
 
 La cuarta parte expone las conclusiones. No os quedéis con ellas: sacad vuestras propias conclusiones.
 
-# 1. Consciencia
+## 1. Consciencia
 
 Definir la consciencia es más difícil de lo que parece. El diccionario de la Real Academia de la Lengua Española proporciona las siguientes acepciones:
 
@@ -70,7 +72,7 @@ Respuesta 1.6: Consciencia dividida (Un ser vivo puede tener más de una conscie
 
 Vamos a estudiarlos por separado.
 
-## 1.1. Consciencia espiritual
+### 1.1. Consciencia espiritual
 
 Empezaremos definiendo *espíritu* como "entidad no formada por materia ni energía, pero con identidad y consciencia propias". Llamaremos *mundo espiritual* al conjunto formado por los espíritus.
 
@@ -103,25 +105,25 @@ Respuesta 1.1.4: Alma compartida por varios cuerpos (El alma está ligada a vari
 
 Vamos a estudiar cada respuesta por separado.
 
-### 1.1.1 Alma ligada al cuerpo hasta la muerte
+#### 1.1.1 Alma ligada al cuerpo hasta la muerte
 
 En este caso, el alma inicialmente no estaba asociada a ningún cuerpo. Cuando fue asociada a un cuerpo, se volvió dependiente de él hasta el punto de que la muerte del cuerpo destruiría el alma.
 
 La consciencia es _mortal_.
 
-### 1.1.2 Alma inicialmente ligada al cuerpo
+#### 1.1.2 Alma inicialmente ligada al cuerpo
 
 En este caso, el alma estaba inicialmente asociada al cuerpo, pero quedará liberada de él tras la muerte. Las religiones bíblicas parten de este escenario.
 
 La consciencia es _inmortal_.
 
-### 1.1.3 Alma temporalmente ligada al cuerpo
+#### 1.1.3 Alma temporalmente ligada al cuerpo
 
 En este caso, el alma inicialmente no estaba asociada a ningún cuerpo. Puede asociarse a un cuerpo, pero eventualmente acabará separándose de él, sin que ello suponga su destrucción. Las religiones budistas parten de este escenario.
 
 La consciencia es _inmortal_.
 
-### 1.1.4 Alma compartida por varios cuerpos
+#### 1.1.4 Alma compartida por varios cuerpos
 
 En este caso, el alma está ligada a varios cuerpos simultáneamente (a todos, si nos vamos al extremo), pero no es capaz de integrar la información de todos cuerpos a la vez, porque su carencia de memoria histórica le impediría dar sentido a la información que recibiera.
 
@@ -129,7 +131,7 @@ Se conocen casos de personas cuyos hemisferios cerebrales han sido desconectados
 
 Las religiones panteístas que identifican a Dios con el Universo se basan en este escenario, haciendo que la totalidad de la materia sea el cuerpo y que Dios sea el alma. En este caso, _Dios no sería omnisciente_ por falta de conexión entre los distintos cuerpos que forman el Universo.
 
-## 1.2 Animismo
+### 1.2 Animismo
 
 Las sociedades de los tiempos prehistóricos eran animistas: para ellos, los animales, las plantas, las rocas o incluso el fuego tenían consciencia propia, al igual que los seres humanos, lo que justificaba que en ocasiones realizaran rituales destinados a pactar con ellos. Los niños pequeños, aún no mediatizados por la cultura dominante, suelen hablar como si fueran animistas; por ejemplo, se chocan contra el pico de una mesa, se hacen daño en la cabeza y reaccionan golpeando el pico de la mesa con la mano, diciendo "mesa mala". También es cierto que los padres muchas veces son los que incitan a sus hijos a comportarse así, diciendo "mesa mala" la primera vez que su hijo se choca contra una mesa.
 
@@ -137,7 +139,7 @@ Un ejemplo de este tipo de consciencia es la Teoría de Gaia, que afirma que el 
 
 La existencia de entidades colectivas plantea el problema de que _un mismo ente material podría formar parte de varias consciencias_. Por ejemplo, un ser humano con consciencia propia, podría formar parte de un país con consciencia propia y, además, formar parte de un planeta, con consciencia propia; ése ser humano formaría parte de dos consciencias además de tener su propia consciencia.
 
-### 1.3 Mente colmena
+#### 1.3 Mente colmena
 
 Las colmenas están formadas por individuos que ponen el interés de la comunidad por encima del propio y se coordinan tan bien que parece que la comunidad entera tiene consciencia propia. Casi parece que cada una de las abejas que forman parte de la colmena carece de consciencia propia.
 
@@ -151,7 +153,7 @@ Sin embargo, las islas de un archipiélago están comunicadas por el suelo subma
 
 Mirando al futuro, podríamos fabricar dispositivos que se conectaran al cerebro y permitieran la comunicación neurona-a-neurona entre dos personas que tuvieran instalados dispositivos similares. Sería como si tuvieran un único cerebro con cuatro hemisferios; al principio, costaría coordinar toda la duplicidad de orgánulos cerebrales (especialmente en lo referente a la amigdala), pero no es descabellado que finalmente acabaran pensando como una única persona. Si hiciéramos lo mismo con todas las personas, la humanidad habría desarrollado una mente colmena. ¿Pasarían a tener una única consciencia?
 
-## 1.4 Consciencia biológica
+### 1.4 Consciencia biológica
 
 Existe algún principio biológico que produce la consciencia. Evidentemente, incluso aunque todos los seres vivos tuvieran consciencia, no tendrían el mismo nivel de consciencia.
 
@@ -173,7 +175,7 @@ Cualquiera que sea el principio biológico que produce la consciencia, todo apun
 
 Por otro lado, podríamos encontrar formas de vida extraterrestre con mecanismos de tratamiento de información diferentes de las neuronas y del geotropismo, pero suficientes para el desarrollo de la consciencia.
 
-## 1.5 Consciencia informática
+### 1.5 Consciencia informática
 
 En este escenario, toda entidad con capacidad de procesar información tiene consciencia.
 
@@ -191,13 +193,13 @@ Respuesta 1.5.2: Copia y destrucción (la nueva red neuronal tiene una conscienc
 
 Vamos a analizarlas por separado.
 
-### 1.5.1. Transferencia de consciencia
+#### 1.5.1. Transferencia de consciencia
 
 En este escenario, la consciencia se transmite como esperábamos. Esto quiere decir que, durante el proceso de copia, el individuo consciente adquiriría progresivamente la consciencia de la red neuronal artificial y, como paso final, perdería la consciencia de su cerebro original.
 
 Hay que decir que no existe ninguna evidencia que apoye esta hipótesis: el hecho de que dos personas piensen igual y tengan los mismos recuerdos no significa que sean la misma. Podríamos colocar a dos gemelos recién nacidos en dos salas iguales y proporcionarles la misma información sensorial; si, de repente, pincháramos a uno de ellos en un brazo, ¿el otro sería consciente de ello? Según este escenario, sí.
 
-### 1.5.2. Copia y destrucción
+#### 1.5.2. Copia y destrucción
 
 En este escenario, el proceso tiene dos fases: en la primera, se crea una copia del cerebro original; en la segunda, se destruye el cerebro original. Incluso aunque lo hagamos neurona a neurona, la última neurona del cerebro original se enfrentará a un proceso de copia y destrucción.
 
@@ -213,7 +215,7 @@ Una red neuronal hardware tendría la misma ventaja a la hora de contrastar info
 
 El caso más terrorífico sería sin duda el del gemelo cuyo cerebro ha sido reconfigurado para almacenar una copia de la consciencia. Tendría los mismos recuerdos, la misma forma de pensar, las mismas limitaciones de acceso a Internet y un cuerpo idéntico. En ese caso, el gemelo podría suplantar al original a la perfección y nadie se daría cuenta; ni siquiera él mismo. Tendrían que encontrar una forma de compartir su identidad o renunciar ambos a la misma; la alternativa sería que uno de ellos domine al otro, lo cual produciría malos sentimientos hacia alguien que tiene su propia imagen y, posiblemente, encuentros violentos entre ambos.
 
-## 1.6. Consciencia dividida
+### 1.6. Consciencia dividida
 
 Según esta hipótesis, una entidad podría tener más de una consciencia.
 
@@ -242,7 +244,7 @@ Imaginemos que contratamos a un hombre con una minusvalía que le impide formar 
 
 Si nos llevamos este ejemplo a nuestra hipótesis de consciencia neuronal, cada una de nuestras neuronas creería ser la única consciencia del cuerpo, compartiría recuerdos con muchas otras neuronas y tendría acceso a parte o a la totalidad de la información sensorial. Tendríamos 100.000 millones de consciencias conviviendo en el mismo cuerpo. Cada decisión sería como celebrar elecciones en un país: varias neuronas habrían emitido un voto y, probablemente, algunas de ellas no estarían contentas con el resultado, pero luego "recordarían" haber tomado esa decisión, porque la memoria es compartida. Muchas neuronas sentirían remordimientos por una decisión que no tomaron ellas, sino sus vecinas.
 
-# 2. Libertad
+## 2. Libertad
 
 El concepto de *libertad* es, cuanto menos, controvertido. El diccionario de la Real Academia de la Lengua Española proporciona las siguientes acepciones:
 
@@ -320,7 +322,7 @@ Respuesta 2.2. Incertidumbre (Universo no determinista).
 
 Vamos a estudiarlas por separado.
 
-## 2.1. Precognición
+### 2.1. Precognición
 
 En este caso, es posible que alguien, bajo ciertas circunstancias, conozca con precisión y seguridad el futuro. Esto quiere decir que esa persona, a quien podemos denominar *precognitor*, conocería la posición y el estado de cada una de las partículas del universo sin margen de error y con total seguridad, al igual que los pensamientos de cada ser consciente.
 
@@ -342,7 +344,7 @@ Respuesta 2.1.5. Precognitor omnipotente (El precognitor decide el futuro).
 
 Vamos a estudiarlas por separado.
 
-### 2.1.1. Precognitor atemporal
+#### 2.1.1. Precognitor atemporal
 
 Supongamos que construimos un pasillo con el techo de cristal y nos ponemos a observar desde arriba. Podríamos ver todo el pasillo sin movernos del sitio. Ahora imaginemos que nos colocamos en un extremo del pasillo y entramos de espaldas. Es un poco extraño, porque la gente suele entrar de frente en los pasillos, pero nosotros entramos de espaldas, caminando hacia atrás. Al principio, sólo veríamos la puerta de entrada; pero al dar nuestro primer paso podríamos ver la baldosa donde hubiéramos tenido los pies justo antes. Conforme fuéramos caminando por el pasillo, la parte del pasillo que podríamos ver sería cada vez mayor, porque sólo podríamos ver la parte del pasillo donde hubiéramos estado antes. Además, no podríamos ver más alla de la puerta por donde entramos, porque dicha puerta obstacularía nuestra visión.
 
@@ -360,7 +362,7 @@ La Teoría de la Relatividad dice que nos desplazamos siempre a la velocidad de 
 
 De la misma manera que está fuera del tiempo, el precognitor atemporal debe estar fuera del espacio. El motivo es que, para ver la totalidad del espacio de un único vistazo, es necesario alejarse, como acabamos de ver; pero alejarse en una dimensión que no sea temporal ni espacial es imposible. La única forma sería que el precognitor atemporal fuera un _espíritu ligado al espacio-tiempo_, de la misma forma que el alma humana está unida al cuerpo. Esto quiere decir que, para que exista un precognitor atemporal, debe existir un universo espiritual.
 
-### 2.1.2. Precognitor futuro
+#### 2.1.2. Precognitor futuro
 
 En este escenario, el precognitor viene del futuro y, por tanto, transporta información del futuro. Es importante tener en cuenta que la información del futuro que el precognitor está transportando al pasado es, en principio, independiente de que éste la conozca; por ejemplo, puede que no sepa que es adoptado, pero más le vale que sus padres biológicos estén vivos, al menos hasta el momento de su concepción.
 
@@ -382,7 +384,7 @@ Respuesta 2.1.2.2. Tiempo autoconsistente (Las leyes de la física garantizan qu
 
 Vamos a estudiarlas por separado.
 
-#### 2.1.2.1. Tiempos paralelos
+##### 2.1.2.1. Tiempos paralelos
 
 Existen historias de ciencia ficción en las que un viajero en el tiempo altera su pasado y, como consecuencia, su futuro. En estas historias, el viajero en el tiempo no es estrictamente un precognitor, puesto que sólo conoce los eventos que tenderán a ocurrir en el futuro pero no puede estar seguro de que van a ocurrir tal y como los recuerda, puesto que su presencia en el pasado está alterando el tiempo. En este tipo de historias, el universo se desdobla para crear una linea temporal alternativa, de modo que el nuevo futuro del viajero en el tiempo es distinto de su antiguo pasado y, por tanto, _no se puede decir que el viajero conozca el futuro_.
 
@@ -394,13 +396,13 @@ Si volvemos al juego de las estatuillas, podemos imaginar que algunos jugadores 
 
 Pero podría ocurrir que el viajero entrara en una línea temporal que ya hubiera sido alterada por otro viajero en el tiempo. Por tanto, _no podemos asumir que el pasado de la línea temporal donde entra un viajero en el tiempo sea idéntico al pasado de la línea temporal de donde salió_.
 
-#### 2.1.2.2. Tiempo autoconsistente
+##### 2.1.2.2. Tiempo autoconsistente
 
 En este escenario, es imposible producir inconsistencias temporales. Intuitivamente, podríamos imaginarnos a un viajero intentando asesinar a su madre antes de que le dé a luz y fallando estrepitosamente. Luego, el viajero recordaría que su madre le contó una vez que alguien había intentado asesinarla antes del parto. El tiempo no se reescribe.
 
 Desde un punto de vista matemático, el viajero no encuentra lineas temporales alternativas. Puede que realice pequeños saltos a través de la dimensión intertemporal, pero siempre acaba volviendo a su propia línea temporal antes de encontrar una línea temporal habitable.
 
-### 2.1.3. Precognitor ciclopasado
+#### 2.1.3. Precognitor ciclopasado
 
 Supongamos que el tiempo es cíclico. Si pudiéramos grabar una película sobre lo que pasa en un punto concreto del Universo, veríamos las mismas escenas una y otra vez. Si pudiéramos medir la temperatura del Universo, los valores se repetirían una y otra vez. Y, si pudiéramos medir la entropía del Universo, los valores se repetirían una y otra vez.
 
@@ -455,15 +457,15 @@ La naturaleza nos proporciona espejos temporales (el eco que repite sonidos, el 
 
 Pero no sólo podríamos reflejar sonidos e imágenes del pasado; si apuntáramos con un láser ideal de coherencia infinita a nuestro espejo temporal y utilizáramos un sistema de modulación (por ejemplo, emitiendo pulsos de distinta duración, como en el código morse), podríamos codificar cualquier mensaje y, por tanto, enviar cualquier información que quisiéramos recibir dentro de 2d años. Una ventaja de este sistema es que el espejo no consumiría energía. Sin embargo, también tendría inconvenientes: la posición relativa de los astros varía; así que podríamos enviar un mensaje a Antares y recibir una réplica entrecortada; además, los láseres del mundo real tienen una coherencia limitada que reduciría la calidad de la señal. Para resolver estos problemas, podríamos introducir algunos repetidores a mitad de camino, que podrían ser pasivos (espejos o lentes, de consumo cero) o activos (dotados de receptor ADC y de emisor DAC, con placas solares para alimentar los amplificadores operacionales y servos para corregir la orientación del receptor y del emisor).
 
-### 2.1.4. Precognitor computacional 
+#### 2.1.4. Precognitor computacional 
 
 En este escenario, las leyes de la física son deterministas. Esto quiere decir que, si conociéramos todas las leyes de la física y tuviéramos toda la información del universo en un instante, podríamos desarrollar un programa que, ejecutándose en un ordenador lo suficientemente potente, sería capaz de calcular cómo sería toda la información del universo en el intante siguiente. En palabras de Einstein, "Dios no juega a los dados".
 
-### 2.1.5. Precognitor omnipotente
+#### 2.1.5. Precognitor omnipotente
 
 En este escenario, el precognitor tiene poder para conseguir absolutamente cuanto desee. Esto incluye definir lo que va a pasar en el futuro y, por tanto, conocerlo. Tampoco tiene limitaciones intelectuales que le impidan ser omnisciente, porque su omnipotencia le permite ser omnisciente.
 
-## 2.2. Incertidumbre
+### 2.2. Incertidumbre
 
 El determinismo era algo comúnmente aceptado entre los físicos hasta la irrupción de la mecánica cuántica. Shroedinger decía que la precisión con la que conocemos la velocidad y la posición de una partícula tiene un límite, lo cual tenía cierto sentido, porque no podemos ver sin añadir energía (enviándole fotones) ni oír sin restar energía (absorbiendo ondas sonoras). También decía que, si encerramos un gato en una caja con un emisor de veneno, no sólo no sabremos si el gato está vivo o muerto hasta que habramos la caja, sino que el gato estará a la vez vivo y muerto hasta que abramos la caja. Es como si existieran dos universos iguales en todo salvo por el estado del gato y que, cuando alguien abriera la caja, sólo uno de esos universos seguiría existiendo. A nadie se le ocurrió preguntar qué opinaría el gato de eso. ¿Depende la realidad de lo que pueda ser percibido? ¿Quién determina qué seres tienen derecho a colapsar universos con su percepción?
 
@@ -473,7 +475,7 @@ Algunos encuentran en la incertidumbre cuántica un hueco para que los seres con
 
 Muchos estudiosos de la moral asumen que la mente puede controlar a la materia y, en el caso de los seres humanos, que la mente (o el alma) controla al cuerpo. En cambio, muchos neurólogos dicen que el sistema límbico es quien controla el cuerpo la mayor parte del tiempo y que sólo recurre al neocórtex para hacer alguna que otra consulta. Lo que los seres conscientes percibimos como un pensamiento continuo podría ser una ilusión; es más, la propia consciencia podría ser algo discontinuo.
 
-# 3. Ética
+## 3. Ética
 
 La ética es el área de conocimiento que se ocupa de diferenciar lo que debe hacerse y lo que no.
 
@@ -491,7 +493,7 @@ Pregunta 3.4. ¿Para qué somos juzgados?
 
 Vamos a analizarlas por separado.
 
-## 3.1. ¿Hasta qué punto nos conoce el juez?
+### 3.1. ¿Hasta qué punto nos conoce el juez?
 
 Para emitir un juicio sobre un acto, es necesario conocer dicho acto. Además, los actos se pueden conocer con mayor o menor profundidad: las intenciones y las circunstancias podrían afectar a la valoración ética.
 
@@ -507,17 +509,17 @@ Respuesta 3.1.4. Juez bien informado (El juez tiene toda la información de los 
 
 Vamos a analizarlas por separado.
 
-### 3.1.1. Juez ignorante
+#### 3.1.1. Juez ignorante
 
 Es la típica persona con la que te cruzas por la calle. Si te ve corriendo con un bolso en la mano, puede pensar que eres un ladrón y llamar a la policía. La existencia de este tipo de personas justifica la paranoica preocupación que tienen muchas personas por el "qué dirán".
 
-### 3.1.2. Juez objetivo
+#### 3.1.2. Juez objetivo
 
 Es una persona que sabe lo que has hecho, porque te ha visto hacerlo, pero no sabe por qué. Esta persona puede testificar en un juicio y decir que has atropellado a una persona, pero no sabe que la víctima es tu vecino ni que su gato se comió a tu canario. Este tipo de juez no desata la paranoia: si haces las cosas bien y no tienes mala suerte, no deberías tener problemas con él. Sin embargo, los accidentes ocurren y este tipo de jueces suele ser implacable.
 
 El juez objetivo no tiene por qué ser una persona: las leyes de la física pueden ser consideradas un juez objetivo cuyas leyes están orientadas a la integridad física: cualquier persona que pierda el equilibrio en el borde de un precipicio será implacablemente castigado con la destrucción de su cuerpo y la intensidad de la pena será proporcional a la altura desde la que caiga.
 
-### 3.1.3 Juez subjetivo
+#### 3.1.3 Juez subjetivo
 
 Es una persona que no sabe exáctamente lo que has hecho, pero sí sabe por qué. Puedes ser tú mismo, si el gato de tu vecino se come a tu canario y, al día siguiente, te cuentan que tu vecino ha sido asesinado. No recuerdas haberlo hecho tú, pero deseabas vengarte y te sientes confuso.
 
@@ -525,7 +527,7 @@ Otro ejemplo de juez subjetivo es el suicida, que no sabe lo que le ocurrirá en
 
 Lo mejor que se puede hacer ante este tipo de jueces es no quedarse sólo. Debe haber testigos que se aseguren de que no has atentado contra la vida de tu vecino... y de que no vas a atentar contra la tuya.
 
-### 3.1.4. Juez bien informado
+#### 3.1.4. Juez bien informado
 
 Es una persona que sabe lo que has hecho, porque te ha visto hacerlo, y además sabe por qué. En este caso, las consecuencias suelen ser de mayor o menor intensidad en función de las circunstancias y la intención.
 
@@ -535,7 +537,7 @@ Algunas religiones creen que nuestra alma registrará todos nuestros actos, junt
 
 ¿Podría un dios omnisciente ser un juez bien informado? La respuesta corta es afirmativa, pero hay que matizar algo: si el juez conoce tus actos, tus circunstancias, tus intenciones y, además, todo lo que ocurre en el Universo, su pasado y su futuro, entonces estamos hablando de un precognitor atemporal y, por tanto, de un escenario determinista en el que no cabe la libertad. Como hemos dicho antes, el juicio no tiene sentido sin la libertad, lo cual implica que un dios omnisciente - o cualquier otro precognitor - no tiene sentido como juez.
 
-## 3.2. ¿Qué criterios emplea el juez?
+### 3.2. ¿Qué criterios emplea el juez?
 
 Si hay alguien que nos va a juzgar y, sobre todo, si vamos a ser premiados o castigados en función de ese veredicto, nos conviene conocer qué criterios va a emplear ese juez para juzgarnos.
 
@@ -553,7 +555,7 @@ El problema surge cuando no conocemos de antemano los criterios en base a los cu
 
 Por supuesto, un precognitor atemporal será inmune a los efectos del cambio del contexto temporal pero, como hemos dicho antes, la existencia de un precognitor es incompatible con la libertad y, por tanto, un precognitor no tiene sentido como juez.
 
-## 3.3. ¿Cuáles son las consecuencias?
+### 3.3. ¿Cuáles son las consecuencias?
 
 Hay que tener en cuenta la importancia de la motivación: _la ética sólo tiene sentido si nuestras decisiones tienen consecuencias_. Hay gente altruista que ayuda a la gente sin esperar nada a cambio y sin que exista la amenaza de un castigo en caso contrario, pero hay que recordar que los seres humanos somos animales sociales cuya tendencia a ayudar a los demás está relacionada con la pertenencia a un grupo. Los altruistas conservan el instinto ancestral de ayudar al prójimo, al igual que nuestros antepasados no humanos; la selección natural los ha elegido porque les permitía adaptarse mejor al medio.
 
@@ -571,7 +573,7 @@ Respuesta 3.3.4. Consecuencias colaterales.
 
 Respuesta 3.3.5. Consecuencias tras la muerte.
 
-### 3.3.1. Consecuencias sensoriales
+#### 3.3.1. Consecuencias sensoriales
 
 La forma más simple de premiar o castigar un acto realizado por un ser consciente es hacerle sentir dolor o placer. También es la forma más segura e inmediata: cuando un verdugo golpea a un criminal, sabe que le va a doler y, además, no tiene que esperar para ver los resultados. Por estos motivos, los jueces con una mentalidad más primitiva suelen aplicar este tipo de premios o castigos.
 
@@ -579,7 +581,7 @@ Sin embargo, no todos los jueces son seres conscientes. Las leyes de la física 
 
 Hay que tener en cuenta que este tipo de consecuencias suelen ir emparejadas con consecuencias sobre la integridad física: si nos duele, suele ser porque nuestra integridad física está siendo dañada. Sin embargo, hay personas que no pueden sentir dolor y que, por ello, permiten que su cuerpo sea herido. En este caso, las consecuencias no serían sensoriales, sino económicas, porque estas personas perciben su cuerpo como un recurso: si se les rompiera una máquina, se sentirían igual. Por supuesto, pueden aprender a cuidar su cuerpo como si sintieran dolor, pero sólo lo estarían simulando y, por tanto, no tendrían la necesidad visceral de defenderlo ni los actos reflejos que de ello derivan.
 
-### 3.3.2. Consecuencias económicas
+#### 3.3.2. Consecuencias económicas
 
 Igual que un guardia de tráfico pone una multa al que está mal aparcado, cualquier otro tipo de juez podría sancionar a un ser consciente con una pérdida de poder. No tiene que ser necesariamente dinero: un administrador de bases de datos podría quitar el permiso de acceso a un usuario que hubiera publicado datos personales en internet. De la misma manera, los padres de un niño travieso pueden castigarle sin consola durante una semana.
 
@@ -587,7 +589,7 @@ Desde el punto de vista positivo, también existen organizaciones que conceden u
 
 Este tipo de consecuencias suele ser el premio o castigo preferido por los jueces objetivos, porque permite controlar con precisión la intensidad de las consecuencias y porque tienen un menor coste social (seguro que los verdugos no tenían muchos amigos).
 
-### 3.3.3. Consecuencias sociales
+#### 3.3.3. Consecuencias sociales
 
 El aislamiento social es una consecuencia muy fácil de aplicar, quizá demasiado. Por ello, los jueces ignorantes suelen castigar a los criminales sencillamente teniendo peor opinión de ellos. No tiene por qué ser una decisión consciente: ven a alguien hacer algo que parece estar mal y, acto seguido, esa persona les cae peor. En ocasiones, los jueces intensifican el castigo criticando al infractor, lo cual hace que otros jueces (también ignorantes) piensen mal del acusado.
 
@@ -595,7 +597,7 @@ Los expertos en marketing dicen que un cliente contento se lo cuenta a tres pers
 
 Pero no todas las consecuencias sociales son espontáneas y, de hecho, hay jueces profesionales que castigan a los criminales con el aislamiento social que supone la cárcel. Lo mismo ocurre con los premios: cuando un héroe recibe una condecoración, el premio es eminentemente social.
 
-### 3.3.4. Consecuencias colaterales
+#### 3.3.4. Consecuencias colaterales
 
 En ocasiones, quien sufre las consecuencias no es el infractor, sino otra persona. Dice el Génesis que, cuando Adán y Eva comieron de la manzana del árbol prohibido, las consecuencias afectaron a todos sus descencientes. Pero esta historia es considerada una fábula incluso por los mismos teólogos de la Iglesia Católica. ¿Ocurre esto en realidad?
 
@@ -603,7 +605,7 @@ Pues sí. Hay muchos niños que viven en la pobreza o en riesgo de exclusión so
 
 Por la propia naturaleza de estas consecuencias, _un juez subjetivo no dictaminará consecuencias colaterales_. Cuando la intención es lo que cuenta, no tiene sentido castigar o premiar a alguien que no tuvo ninguna.
 
-### 3.3.5. Consecuencias post-mortem
+#### 3.3.5. Consecuencias post-mortem
 
 Algunas religiones creen que seremos juzgados para recibir un premio o un castigo después de la muerte. Esto sólo podría ocurrir en el escenario 1.1. (Consciencia espiritual); en particular, en los escenarios 1.1.2 y 1.1.3, donde el alma sobrevive a la muerte del cuerpo. Esto implica que el alma debería tener alguna forma de almacenar información sobre la adecuación de nuestros actos al criterio del juez (si hablamos de un juez bien informado) o que el juez debe investigar nuestra vida para aplicar las consistencias pertinentes.
 
@@ -611,7 +613,7 @@ Como hemos dicho antes, que un juez esté bien informado no significa que sea om
 
 La mayor dificaultad de este escenario es que no conocemos a nadie que pueda aplicar premios o castigos post-mortem. Incluso si existiera un dios omnipotente, ya hemos visto que sería un precognitor y, por tanto, no tendría sentido como juez.
 
-## 3.4. ¿Para qué somos juzgados?
+### 3.4. ¿Para qué somos juzgados?
 
 Cabe preguntarse por la motivación que tiene un juez para ejercer su labor. Esta cuestión es importante de cara a evaluar la información que nos proporcionan sobre un juez al que no conocemos porque, como toda información que recibamos, podría ser falsa.
 
@@ -625,13 +627,13 @@ Respuesta 3.4.3. Juez por amor (el juez quiere que lo mejor para nosotros)
 
 Examinémoslas por separado.
 
-## 3.4.1. Juez por naturaleza
+### 3.4.1. Juez por naturaleza
 
 Este juez no ha elegido juzgar y probablemente ni siquiera es consciente de ello. Las leyes de la física son jueces por naturaleza que castigan a los objetos frágiles o incapaces de evitar condiciones extremas; las leyes de la selección natural premian a los genes que mejor se adaptan al medio y los animales terrestres castigan a las hierbas que crecen en zonas de paso.
 
 Los jueces por naturaleza _son objetivos y sistemáticos_. Aunque sea difícil saber cuándo va a entrar un volcan en erupción, la lava obedece a las leyes de la dinámica de fluidos y debería ser posible calcular con cierta precisión la fecha de la próxima erupción; en el caso de los rayos, aunque resulte difícil predecir dónde caerá uno, conocemos varios factores que afectan a esta probabilidad, como la presencia de antenas o el uso de jaulas de Faraday.
 
-## 3.4.2. Juez por interés
+### 3.4.2. Juez por interés
 
 Este juez necesita ayuda o es vulnerable, lo cual hace que quiera elegir a los mejores, premiar a los colaboradores y castigar a los enemigos. Se trata de un _juez consciente_ con un interés definido.
 
@@ -657,7 +659,7 @@ Respuesta 3.4.2.5. Creador juez (el creador coacciona a sus criaturas)
 
 Veamos cada una por separado.
 
-#### 3.4.2.1. Sin creador
+##### 3.4.2.1. Sin creador
 
 El Universo es _eterno_: no ha sido creado, sino que ha existido siempre.
 
@@ -671,13 +673,13 @@ Respuesta 3.4.2.1.2. Tiempo lineal
 
 Examinémoslas por separado.
 
-##### 3.4.2.1.1. Tiempo cíclico
+###### 3.4.2.1.1. Tiempo cíclico
 
 En este caso, el tiempo es cíclico y, por tanto, todo ocurre una y otra vez de la misma manera, con un periodo fijo tan largo que parece que es lineal. Es algo parecido a lo que ocurre cuando alguien camina en línea recta por una planicie: parece que el planeta es plano pero, si lo miramos desde lejos, veremos que es cíclico y que, si nos desplazamos en una dirección fija sobre la superficie del planeta, acabaremos volviendo al punto de partida.
 
 Este escenario se corresponde con el descrito en el apartado 2.1.3 (Precognitor ciclopasado), así que es incompatible con la Segunda Ley de la Termodinámica (habría que replantear las leyes de la física) y con la libertad (no tendría sentido que hubiera un juez).
 
-##### 3.4.2.1.2. Tiempo lineal
+###### 3.4.2.1.2. Tiempo lineal
 
 En este caso, el tiempo es una recta, sin principio ni fin. Si nos imaginamos la Historia como un libro, nos encontraríamos infinitas páginas anteriores al punto de lectura (que, en este ejemplo, sería el presente). Sería imposible empezar a leer el libro por el principio, porque no tendría primera página, y sentiríamos curiosidad por saber cómo han escrito las páginas interiores: ¿quién habría elegido qué poner?
 
@@ -687,27 +689,27 @@ Nuestra mente no está preparada para intuir un tiempo lineal ni un tiempo con i
 
 Dado que en este escenario no tenemos motivos para rechazar la Segunda Ley de la Termodinámica, podríamos pensar en lo que pasaría con la entropía. Si el tiempo fuera una semirrecta que tuviera un principio, el valor de la entropía en el principio sería el menor valor de la entropía; pero si el tiempo es una recta sin principio ni fin, la entropía no alcanzaría un valor mínimo en el pasado, sino que tendería a dicho mínimo asintóticamente.
 
-#### 3.4.2.2. Creador omnipotente
+##### 3.4.2.2. Creador omnipotente
 
 Si el Universo hubiera sido creado por un ser omnipotente, entonces cumpliría perfectamente con los requisitos establecidos por el creador y, por tanto, sería determinista. El creador sería un precognitor atemporal y, por tanto, las criaturas no serían libres, lo cual haría que la existencia de un juez no tuviera sentido.
 
-#### 3.4.2.3. Creador responsable
+##### 3.4.2.3. Creador responsable
 
 En este caso, el creador no sería omnipotente y, por tanto, la creación no sería perfecta. El creador se vería obligado a vigilar su obra y corregir las desviaciones que surgieren, como un agricultor que elimina las malas hierbas. En este caso, el juez por interés sería un *creador responsable*, lo cual justificaría todos los esfuerzos bíblicos por explicar a los seres humanos cómo deben comportarse para no acabar en un infierno que, por su propia definición, sería un error de diseño. Sería como un programador que sabe que su aplicación no funciona bajo ciertas condiciones y se ve obligado a corregir los errores a mano.
 
-#### 3.4.2.4. Creador irresponsable
+##### 3.4.2.4. Creador irresponsable
 
 En este caso, el creador no es omnipotente ni está dispuesto a resolver los problemas derivados de la imperfección de su creación, permitiendo que sus criaturas se precipitaran hacia el infierno. Si alguien le pidiera cuentas por el mal que hay en el mundo, respondería sin dudar que es por culpa de los seres humanos, incluso aunque las leyes que rigieran sus almas hubieran sido definidas por él.
 
 Si nos vamos al Génesis, nos encontramos a un creador que permitió a los humanos acceder a un árbol cuya fruta podía desestabilizar el Universo y, no contento con eso, le hizo ver lo poderosa que era dicha fruta. Millones de años más tarde, los seres humanos inventarían historias sobre grandes inventores que colocaron una placa con el texto "No tocar" al lado de un botón de autodestrucción.
 
-#### 3.4.2.5. Creador juez
+##### 3.4.2.5. Creador juez
 
 Éste sería un creador que recurre a amenazas para obligar a sus criaturas a comportarse como él desea. Esto justificaría la existencia de un infierno que castiga, pero no para enseñar, porque no hay una vida después del infierno en la que pudiera aplicarse lo dolorosamente aprendido, sino para vengarse.
 
 El problema de este creador juez es que, si no tuvo poder para crear un universo perfecto, tampoco tendría poder para crear un paraíso perfecto. Para paliar este defecto, muchos teólogos postulan que el premio es la compañía del creador, que proporciona sosiego al alma; pero estos teólogos no han tenido en cuenta que la compañía de un dios que gobierna con amenazas quizá no sea tan deseable.
 
-### 3.4.3. Juez por amor
+#### 3.4.3. Juez por amor
 
 Este juez quiere al ser consciente a quien juzga y le juzga para poder aconsejarle cómo mejorar. El clásico ejemplo son los padres, que pueden premiar o castigar a sus hijos para que adquieran hábitos que les vayan a ser de utilidad en la vida.
 
@@ -721,7 +723,7 @@ Como corolario, alguien que nos juzga por amor _no puede condenarnos al infierno
 
 Otra afirmación que podemos hacer es que, dado que los seres conscientes a veces sufrimos, _alguien que nos ama no puede ser omnipotente_, porque un ser omnipotente evitaría el sufrimiento de aquellos a quienes ama. Alguien podría preguntarse si un amante omnipotente no podría aplicar un pequeño sufrimiento con la intención de enseñar, pero eso iría en contra del principio de proporcionalidad: si estuvieramos seguros de que nuestros hijos nunca van a sufrir, ¿merecería la pena enseñarles a sufrir?
 
-# 4. Conclusiones
+## 4. Conclusiones
 
 Ni las ciencias ni las religiones han sabido dar una respuesta convincente y coherente. El estudio que acabamos de realizar, tampoco. Lo que hemos obtenido es un conjunto de preguntas clave y un análisis de las relaciones entre las posibles respuestas a estos interrogantes.
 
