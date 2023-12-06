@@ -8,4 +8,4 @@ También ha habido cambios en materia de política. Los indignados del 15-M inic
 
 El [problema lingüístico de la Unión Europea](temporadas/1/03.Uniohn_en_la_diversidad.md) sigue igual. Resulta irónico que [rechazaran incluir el Esperanto como lengua neutral porque no era la lengua oficial de ningún estado miembro](temporadas/1/11.La_vigencia_de_una_constituciohn_rechazada.md) y que, tras el Brexit, la *lingua franca* siga siendo el inglés. Por cierto, si sentís curiosidad sobre la extraña ortografía de los ficheros donde guardo los posts, la explicación está [aquí](temporadas/1/06.La_convergencia_de_las_lenguas.md).
 
-Por supuesto, han pasado muchas más cosas. Algunas de ellas, merecen un post... o varios. ¡Estad atentos!
+Por supuesto, han pasado muchas más cosas. Algunas de ellas, merecen un post... o varios. ¡Estad atentos a la [tercera temporada](temporadas/3)!
